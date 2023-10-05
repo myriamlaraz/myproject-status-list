@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://myriamlaraz.github.io/myproject-status-list/BT29DG1ROY#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQ0AAAACIGf_0LbwAhoAAAAAAAAAAAAAAIC_AfqBUGnUMAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACIJP_J_vCBDQAAAAAAAAAAAAAAAB_A6mC-tTUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6MkkiGTpp367JxcRZfqGRqV6qBPYzTbymkzKi6QmoqrxH96",
-  "issuanceDate": "2023-10-05T14:43:14.102Z",
+  "issuanceDate": "2023-10-05T14:46:10.088Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-10-05T14:43:14Z",
+    "created": "2023-10-05T14:46:10Z",
     "verificationMethod": "did:key:z6MkkiGTpp367JxcRZfqGRqV6qBPYzTbymkzKi6QmoqrxH96#z6MkkiGTpp367JxcRZfqGRqV6qBPYzTbymkzKi6QmoqrxH96",
     "proofPurpose": "assertionMethod",
-    "proofValue": "ztoq6spJafFYbGBy4NESSCSVrCKaaMpWVDknDrJ3nKeL1B7BTY7wUwPgXhi3ffqiiPBXpcfe7hCc7GQ8DMskr2Ks"
+    "proofValue": "z2iXtx5igriVLxo9JaUX8D7fqLndWP9toHQRVAEYcD37aMW2XAKiHJuaQSeVx6yFeedT9FrETuoqZxkQnvdDpfnpu"
   }
 }
