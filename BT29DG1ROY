@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://myriamlaraz.github.io/myproject-status-list/BT29DG1ROY#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACIJP_J_vCBDQAAAAAAAAAAAAAAAB_A6mC-tTUMAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACINf4f6IvTEADAAAAAAAAAAAAAADwN_aL_TnUMAAA",
     "statusPurpose": "revocation"
   },
-  "issuer": "did:key:z6MkkiGTpp367JxcRZfqGRqV6qBPYzTbymkzKi6QmoqrxH96",
-  "issuanceDate": "2023-10-05T15:00:25.383Z",
+  "issuer": "did:key:z6MkhUerDs1Xsrsr5nuzzixcxU54onYM5kRcvqnJxvH2acYS",
+  "issuanceDate": "2023-10-05T15:02:29.752Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2023-10-05T15:00:25Z",
-    "verificationMethod": "did:key:z6MkkiGTpp367JxcRZfqGRqV6qBPYzTbymkzKi6QmoqrxH96#z6MkkiGTpp367JxcRZfqGRqV6qBPYzTbymkzKi6QmoqrxH96",
+    "created": "2023-10-05T15:02:29Z",
+    "verificationMethod": "did:key:z6MkhUerDs1Xsrsr5nuzzixcxU54onYM5kRcvqnJxvH2acYS#z6MkhUerDs1Xsrsr5nuzzixcxU54onYM5kRcvqnJxvH2acYS",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z5JkzjgLS3iNrMcoyF5oPbKJ2t3og2EdrgsZVWhTbAViBq9HWbrmfx4stZ6xrqqhDbJjZU3GqTYxMRQPCX9LSjrYQ"
+    "proofValue": "z4UB32A4ZvHQEV8A1YSz7XRzUgsiKpQKNxGdakBid7HU2g7QmQPH8UonJajPY19GwugNpKYdbeA2ovWi7B2eZQsqg"
   }
 }
